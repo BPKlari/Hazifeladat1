@@ -17,7 +17,7 @@ Mickey vagyok, rajzfilmfigura, film-, képregény :star: .
 | Névadó: | Lilian Disney  |
 | Családi állapot:| házas | 
 | Feleség:| Minnie Mouse ![Édes Minnie](mickey-minnie-faces.png) |
-| Lakhely: | Disneyland, USA|
+| Lakhely: | Disneyland ![USAFLAG](usaflag.jpg)|
 | Háziállat: | Goofy |
 
 ## Néhány érdekesség rólam:
